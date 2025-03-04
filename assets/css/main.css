@@ -2328,7 +2328,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #ed4933;
+			background-color: #ed33c5;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2661,7 +2661,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #b22168;
 			color: #c7ebe8;
 		}
 
@@ -3274,7 +3274,7 @@
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #2e3842;
+		background: #7e033f;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
